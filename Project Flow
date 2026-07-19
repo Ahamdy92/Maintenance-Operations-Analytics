@@ -1,0 +1,23 @@
+Data extraction from CRM or SC
+# Step 1 - Data Validation
+
+This section validates CRM data by checking:
+
+- Duplicate Case Numbers
+- Missing Values
+- Invalid Relationships
+- Data Quality Score
+
+Output:
+Validation_Report.xlsx
+
+# Step 2 - Data Cleaning
+
+This section performs:
+
+- Text normalization
+- Trim spaces
+- Standardize dates
+- Remove duplicates
+- Export cleaned datasets
+
