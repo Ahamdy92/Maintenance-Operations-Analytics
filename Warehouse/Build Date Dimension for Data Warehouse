@@ -1,0 +1,9 @@
+Created Dim_Date table with:
+- Surrogate DateKey
+- Year
+- Quarter
+- Month
+- Week
+- Day
+- Day Name
+- Month Name
