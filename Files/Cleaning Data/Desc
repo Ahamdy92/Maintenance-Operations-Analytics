@@ -1,0 +1,7 @@
+Implemented data cleaning process including:
+
+- Text normalization
+- Duplicate removal
+- Date standardization
+- Numeric conversion
+- Export cleaned datasets
